@@ -56,7 +56,7 @@ A hands-on lab that places [SafeLine](https://github.com/chaitin/SafeLine), an o
 ## Quick start (on VM3 / Kali)
 
 ```bash
-git clone https://github.com/<owner>/safeline-waf-lab.git ~/waf-lab
+git clone https://github.com/teddy0-0y/Evaluating-SafeLine-as-a-Web-Application-Firewall-with-OWASP-Juice-Shop.git ~/waf-lab
 cd ~/waf-lab
 chmod +x attacks/*.sh benign/*.sh
 
